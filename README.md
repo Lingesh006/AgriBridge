@@ -10,21 +10,21 @@ Built with Flutter, AgriBridge focuses on practical agricultural challenges face
 
 ---
 
-📌 Table of Contents
+## 📌 Table of Contents
 
-- "The Problem" (#-the-problem)
-- "Our Solution" (#-our-solution)
-- "Key Features" (#-key-features)
-- "Core Workflow: Machinery Rental" (#-core-workflow-machinery-rental)
-- "Technology Stack" (#️-technology-stack)
-- "System Architecture" (#️-system-architecture)
-- "Implementation Status" (#-implementation-status)
-- "Getting Started" (#-getting-started)
-- "Firebase Integration Plan" (#-firebase-integration-plan)
-- "Security and Reliability" (#-security-and-reliability)
-- "Future Enhancements" (#-future-enhancements)
-- "Team" (#-team)
-- "License" (#-license)
+- [The Problem](#the-problem)
+- [Our Solution](#our-solution)
+- [Key Features](#key-features)
+- [Core Workflow: Machinery Rental](#core-workflow-machinery-rental)
+- [Technology Stack](#technology-stack)
+- [System Architecture](#system-architecture)
+- [Implementation Status](#implementation-status)
+- [Getting Started](#getting-started)
+- [Firebase Integration Plan](#firebase-integration-plan)
+- [Security and Reliability](#security-and-reliability)
+- [Future Enhancements](#future-enhancements)
+- [Team](#team)
+- [License](#license)
 
 ---
 
